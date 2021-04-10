@@ -1,0 +1,33 @@
+body {
+  background-color: #000;
+}
+
+.wrapper {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+}
+
+.joke-wrapper {
+  padding: 2em;
+}
+
+.joke,
+.setup,
+.delivery,
+.loading {
+  font-size: 2em;
+}
+
+.setup {
+  display: block;
+  margin-bottom: 1em;
+}
+.get-joke {
+  font-size: 2em;
+  color: black;
+  background: white;
+  border: none;
+  border-radius: 2px;
+}
